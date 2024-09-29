@@ -124,3 +124,5 @@ int main() {
 ![Screenshot from 2024-09-19 13-59-27](https://github.com/user-attachments/assets/40977a16-183d-44fd-9b40-494bacbae400)
 
 # RESULT:
+
+The C Program that uses Linux Process API - fork(), wait(), exec() was verified successfully.
